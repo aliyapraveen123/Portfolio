@@ -7,9 +7,10 @@ function Hero() {
         <p className="hero-role">Full-stack Developer</p>
 
         <p className="hero-intro">
-          BCA student with hands-on experience in React, Node.js, and Git.
-          Strong foundation in problem-solving and algorithms, with experience
-          building practical web applications and contributing to social-impact projects.
+          Aspiring MERN Stack Developer with hands-on experience in building web applications using MongoDB, Express.js, React.js, and Node.js. 
+          Familiar with the fundamentals of Android app development using React Native and Expo. 
+          Passionate about problem-solving, continuously learning new technologies, and improving development skills. 
+          Eager to contribute to meaningful projects, apply my technical knowledge to real-world challenges, and deliver valuable solutions that support the company's growth and success.
         </p>
 
         <div className="hero-actions">

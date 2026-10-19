@@ -14,13 +14,9 @@ function Certifications() {
           <p className="section-kicker">05 / Continue learning</p>
           <h2>Certifications</h2>
           <p className="section-description">
-            A space for my learning journey. Certificates will be added here.
+            A space for my learning journey. 
           </p>
         </div>
-        <p className="certificate-note">
-          <span aria-hidden="true">i</span>
-          The remaining slots are placeholders for future credentials.
-        </p>
       </header>
 
       <div className="certification-grid">
