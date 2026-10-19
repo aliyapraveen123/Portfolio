@@ -19,8 +19,8 @@ function Projects() {
               Built a full-stack e-commerce application using React, Node.js,
               and MongoDB with authentication, cart features, and REST APIs.
             </p>
-            <div className="project-tags"><span>React</span><span>Node.js</span><span>MongoDB</span></div>
-            <a href="https://github.com/aliyapraveen123" target="_blank" rel="noreferrer" className="project-link">View project <span aria-hidden="true">↗</span></a>
+            <div className="project-tags"><span>React</span><span>Node.js</span><span>MongoDB</span><span>Express.js</span></div>
+            <a href="https://fronend-cpc.onrender.com/" target="_blank" rel="noreferrer" className="project-link">View project <span aria-hidden="true">↗</span></a>
           </div>
         </article>
 
